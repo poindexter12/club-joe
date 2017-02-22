@@ -1,0 +1,36 @@
+v---
+layout: post
+title:  "Week 2/20/2017 Batch"
+date:   2017-02-22 10:29:00 0800
+categories: coffee
+---
+
+# [Global Coffee Trading](http://www.globalcoffeetrading.com)
+
+### Finca El Mango
+#### Purchase Date
+2/17/2016
+#### Roast Date
+2/10/17		
+#### Continent
+Central America
+#### Country
+Costa Rica
+#### Region
+??
+#### Varietal
+Caturra, Catuai
+#### Farm
+??
+#### Process
+Black Honey
+#### Altitude
+??
+#### Coffee to Water Ratio
+16:1
+#### V60 Bloom Time
+0:30
+#### V60 Total Time
+2:45
+#### Description
+Honeysuckle, Milk Chocolate, Dried Fruit
