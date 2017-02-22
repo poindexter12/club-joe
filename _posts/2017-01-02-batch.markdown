@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Week 1/2/2017 Batch"
+date:   2017-01-02 12:00:00 -0800
+categories: coffee
+---
+# [Steady State](https://steady-state.myshopify.com)
+
+### Space Traveler
+#### Purchase Date
+12/29/16
+#### Roast Date
+12/27/16
+#### Continent
+Central America & Africa
+#### Country
+Guatemala & Ethiopia
+#### Region
+Various
+#### Varietal
+Blend
+#### Farm
+Various
+#### Process
+Washed & Natural
+#### Altitude
+1400 - 2100 meters
+#### Coffee to Water Ratio
+16:1
+#### V60 Bloom Time
+0:30
+#### V60 Total Time
+3:00
+#### Description
+Finally. A coffee that is blended to increase the layers of flavor and experience from coffee, and not for the purpose of trying to cut costs and use up old coffee. This coffee can do it all, french press, cold brew, espresso, pourovers, aero-press, etc... It has a nice bright complexity with some nice floral accents, followed by a rounded body with chocolate notes.
+
+### Tawo Mok		
+#### Roast Date
+12/27/16
+#### Continent
+Africa
+#### Country
+Ethiopia
+#### Region
+Yirgacheffe
+#### Varietal
+Mixed Heirloom
+#### Farm
+Dumerso Village
+#### Process
+Natural
+#### Altitude
+1900 - 2000 meters
+#### Coffee to Water Ratio
+17:1
+#### V60 Bloom Time
+0:30
+#### V60 Total Time
+3:30
+#### Description
+This is a unique standout coffee from the Ehiopia, Yirgacheffe region. It is one of the cleanset cups we have experienced that falls in this price range (generally a clean cup like this is much more expensive). The tastte profile is red tea, mixed berries, cardamom, with a super smooth finish. This one to make sure and not miss. It does extremely well as a pourover and aeropress, and even make an outstanding espresso.

@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Week 1/9/2017 Batch"
+date:   2017-01-09 12:00:00 -0800
+categories: coffee
+---
+
+# [IronSmith](http://www.ironsmithcoffee.com)
+
+### Chalatenango
+#### Purchase Date
+1/7/2016
+#### Roast Date
+1/5/17		
+#### Continent
+Central America
+#### Country
+El Salvador.
+#### Region
+Chalatenango
+#### Varietal
+Pacamara
+#### Farm
+Microlot
+#### Process
+Washed
+#### Altitude
+1200 - 1800
+#### Coffee to Water Ratio
+16:1
+#### V60 Bloom Time
+0:30
+#### V60 Total Time
+2:45
+#### Description
+Toffee, lemon, cocoa and sweet. 2016 Harvest
+
+### Finca El Apostol
+#### Purchase Date
+1/7/2016
+#### Roast Date
+1/5/17		
+#### Continent
+Central America
+#### Country
+Costa Rica			
+#### Region
+Sabanilla
+#### Varietal
+Caturra, Catuai
+#### Farm
+Finca El Apostol
+#### Process
+Natural
+#### Altitude
+1300 - 1600
+#### Coffee to Water Ratio
+16:1
+#### V60 Bloom Time
+0:30
+#### V60 Total Time
+2:45
+#### Description
+Tart cherry, lemon, strawberry and winey acidity. 2016 Harvest.
