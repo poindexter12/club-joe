@@ -1,7 +1,7 @@
-v---
+---
 layout: post
 title:  "Week 2/20/2017 Batch"
-date:   2017-02-22 10:29:00 0800
+date:   2017-02-20 10:29:00 0800
 categories: coffee
 ---
 
