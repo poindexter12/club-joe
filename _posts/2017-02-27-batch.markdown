@@ -6,24 +6,24 @@ categories: coffee
 ---
 # [Global Coffee Trading](http://www.globalcoffeetrading.com)
 
-### Finca El Mango
+### Guatemala Uutiapa
 #### Purchase Date
-2/24/2017
+02/24/2017
 #### Roast Date
-2/10/17		
+02/23/17		
 #### Continent
 Central America
 #### Country
-Costa Rica
+Guatemala
 #### Region
-??
+Jutiapa
 #### Varietal
-Caturra, Catuai
-#### Farm
-??
+Pacas
+####Farm
+Calderas
 #### Process
-Black Honey
+Honey
 #### Altitude
-??
+1370 Meters
 #### Description
-Honeysuckle, Milk Chocolate, Dried Fruit
+Plum, Oak, Chocolate Liqueur
