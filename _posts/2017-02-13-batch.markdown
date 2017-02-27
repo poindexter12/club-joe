@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "Week 02/20/2017 Batch"
-date:   2017-02-20 10:29:00 0800
+title:  "Week 02/13/2017 Batch"
+date:   2017-02-13 10:29:00 0800
 categories: coffee
 ---
 # [Global Coffee Trading](http://www.globalcoffeetrading.com)
 
-### Finca El Mango
+### Carmo dm Minas
 #### Purchase Date
-2/17/2017
+2/10/2017
 #### Roast Date
 2/10/2017		
 #### Continent
-Central America
+South America
 #### Country
-Costa Rica
+Brazili
 #### Region
 ??
 #### Varietal
-Caturra, Catuai
+Typica
 #### Farm
 ??
 #### Process
-Black Honey
+Pulped Natural
 #### Altitude
 ??
 #### Description
-Honeysuckle, Milk Chocolate, Dried Fruit
+Caramel, Nougat, Pecan
