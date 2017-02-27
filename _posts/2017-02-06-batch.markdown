@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "Week 02/13/2017 Batch"
-date:   2017-02-13 10:29:00 0800
+title:  "Week 01/30/2017 Batch"
+date:   2017-01-30 10:29:00 0800
 categories: coffee
 ---
 # [Global Coffee Trading](http://www.globalcoffeetrading.com)
 
-### Yirgachiffe
+### Finca Neveria
 #### Purchase Date
-02/02/2017
+01/25/2017
 #### Roast Date
-02/01/2017		
+01/20/2017		
 #### Continent
-Africa
+Central America
 #### Country
-Ethiopia
+Mexico
 #### Region
 ??
 #### Varietal
-Heirloom
+Bourbon, Cattura Typica
 #### Farm
 ??
 #### Process
@@ -26,4 +26,4 @@ Washed
 #### Altitude
 ??
 #### Description
-Maple, Honey, Stone Fruit
+Green Apple, Honey, Almond
