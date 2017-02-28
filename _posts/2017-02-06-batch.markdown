@@ -3,27 +3,20 @@ layout: post
 title:  "Week 02/13/2017 Batch"
 date:   2017-02-13 10:29:00 0800
 categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Ethiopia Yirgachiffe"
+    purchase-date: "02/02/2017"
+    roast-date: "02/01/2017"
+    continent: "Africa"
+    country: "Ethiopia"
+    region: "??"
+    varietal: "Heirloom"
+    farm: "??"
+    process: "Washed"
+    altitude: "??"
+    description: "Maple, Honey, Stone Fruit"
 ---
-# [Global Coffee Trading](http://www.globalcoffeetrading.com)
 
-### Ethiopia Yirgachiffe
-#### Purchase Date
-02/02/2017
-#### Roast Date
-02/01/2017		
-#### Continent
-Africa
-#### Country
-Ethiopia
-#### Region
-??
-#### Varietal
-Heirloom
-#### Farm
-??
-#### Process
-Washed
-#### Altitude
-??
-#### Description
-Maple, Honey, Stone Fruit
+{% include coffee-list.html %}

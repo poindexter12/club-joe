@@ -3,47 +3,33 @@ layout: post
 title:  "Week 01/02/2017 Batch"
 date:   2017-01-02 12:00:00 -0800
 categories: coffee
+coffee-roasts:
+  - roaster: "Steady State"
+    roaster-url: "https://steady-state.myshopify.com"
+    name: "Space Traveler"
+    purchase-date: "12/29/2016"
+    roast-date: "12/27/2016"
+    continent: "Central America & Africa"
+    country: "Guatemala & Ethiopia"
+    region: "Various"
+    varietal: "Blend"
+    farm: "Various"
+    process: "Washed & Natural"
+    altitude: "1400 - 2100 meters"
+    description: "Finally. A coffee that is blended to increase the layers of flavor and experience from coffee, and not for the purpose of trying to cut costs and use up old coffee. This coffee can do it all, french press, cold brew, espresso, pourovers, aero-press, etc... It has a nice bright complexity with some nice floral accents, followed by a rounded body with chocolate notes."
+  - roaster: "SteadyState"
+    roaster-url: "https://steady-state.myshopify.com"
+    name: "Tawo Mok"
+    purchase-date: "12/29/2016"
+    roast-date: "12/27/2016"
+    continent: "Africa"
+    country: "Ethiopia"
+    region: "Yirgacheffe"
+    varietal: "Mixed Heirloom"
+    farm: "Dumerso Village"
+    process: "Natural"
+    altitude: "1900 - 2000 meters"
+    description: "This is a unique standout coffee from the Ehiopia, Yirgacheffe region. It is one of the cleanset cups we have experienced that falls in this price range (generally a clean cup like this is much more expensive). The tastte profile is red tea, mixed berries, cardamom, with a super smooth finish. This one to make sure and not miss. It does extremely well as a pourover and aeropress, and even make an outstanding espresso."
 ---
-# [Steady State](https://steady-state.myshopify.com)
 
-### Space Traveler
-#### Purchase Date
-12/29/2016
-#### Roast Date
-12/27/2016
-#### Continent
-Central America & Africa
-#### Country
-Guatemala & Ethiopia
-#### Region
-Various
-#### Varietal
-Blend
-#### Farm
-Various
-#### Process
-Washed & Natural
-#### Altitude
-1400 - 2100 meters
-#### Description
-Finally. A coffee that is blended to increase the layers of flavor and experience from coffee, and not for the purpose of trying to cut costs and use up old coffee. This coffee can do it all, french press, cold brew, espresso, pourovers, aero-press, etc... It has a nice bright complexity with some nice floral accents, followed by a rounded body with chocolate notes.
-
-### Tawo Mok		
-#### Roast Date
-12/27/2016
-#### Continent
-Africa
-#### Country
-Ethiopia
-#### Region
-Yirgacheffe
-#### Varietal
-Mixed Heirloom
-#### Farm
-Dumerso Village
-#### Process
-Natural
-#### Altitude
-1900 - 2000 meters
-#### Description
-This is a unique standout coffee from the Ehiopia, Yirgacheffe region. It is one of the cleanset cups we have experienced that falls in this price range (generally a clean cup like this is much more expensive). The tastte profile is red tea, mixed berries, cardamom, with a super smooth finish. This one to make sure and not miss. It does extremely well as a pourover and aeropress, and even make an outstanding espresso.
+{% include coffee-list.html %}

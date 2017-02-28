@@ -3,49 +3,33 @@ layout: post
 title:  "Week 01/09/2017 Batch"
 date:   2017-01-09 12:00:00 -0800
 categories: coffee
+coffee-roasts:
+  - roaster: "IronSmith"
+    roaster-url: "http://www.ironsmithcoffee.com"
+    name: "Chalatenango"
+    purchase-date: "01/07/2017"
+    roast-date: 01/05/2016"
+    continent: "Central America"
+    country: "El Salvador"
+    region: "Chalatenango"
+    varietal: "Pacamara"
+    farm: "Microlot"
+    process: "Washed"
+    altitude: "1200 - 1800"
+    description: "Toffee, lemon, cocoa and sweet. 2016 Harvest"
+  - roaster: "IronSmith"
+    roaster-url: "http://www.ironsmithcoffee.com"
+    name: "Chalatenango"
+    purchase-date: "01/07/2017"
+    roast-date: 01/05/2016"
+    continent: "Central America"
+    country: "Costa Rica"
+    region: "Sabanilla"
+    varietal: "Caturra, Catuai"
+    farm: "Finca El Apostol"
+    process: "Washed"
+    altitude: "1300 - 1600"
+    description: "Tart cherry, lemon, strawberry and winey acidity. 2016 Harvest."
 ---
-# [IronSmith](http://www.ironsmithcoffee.com)
 
-### Chalatenango
-#### Purchase Date
-01/07/2016
-#### Roast Date
-01/05/2017		
-#### Continent
-Central America
-#### Country
-El Salvador
-#### Region
-Chalatenango
-#### Varietal
-Pacamara
-#### Farm
-Microlot
-#### Process
-Washed
-#### Altitude
-1200 - 1800
-#### Description
-Toffee, lemon, cocoa and sweet. 2016 Harvest
-
-### Finca El Apostol
-#### Purchase Date
-01/07/2016
-#### Roast Date
-01/05/2017		
-#### Continent
-Central America
-#### Country
-Costa Rica			
-#### Region
-Sabanilla
-#### Varietal
-Caturra, Catuai
-#### Farm
-Finca El Apostol
-#### Process
-Natural
-#### Altitude
-1300 - 1600
-#### Description
-Tart cherry, lemon, strawberry and winey acidity. 2016 Harvest.
+{% include coffee-list.html %}

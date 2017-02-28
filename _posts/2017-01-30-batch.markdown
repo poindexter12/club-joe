@@ -3,27 +3,20 @@ layout: post
 title:  "Week 01/30/2017 Batch"
 date:   2017-01-30 10:29:00 0800
 categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Brazil Carmo de Minaso"
+    purchase-date: "01/25/2017"
+    roast-date: "01/20/2017"
+    continent: "Central America"
+    country: "Mexico"
+    region: "??"
+    varietal: "Bourbon, Cattura Typica"
+    farm: "??"
+    process: "Washed"
+    altitude: "??"
+    description: "Green Apple, Honey, Almond"
 ---
-# [Global Coffee Trading](http://www.globalcoffeetrading.com)
 
-### Mexico Finca Neveria
-#### Purchase Date
-01/25/2017
-#### Roast Date
-01/20/2017		
-#### Continent
-Central America
-#### Country
-Mexico
-#### Region
-??
-#### Varietal
-Bourbon, Cattura Typica
-#### Farm
-??
-#### Process
-Washed
-#### Altitude
-??
-#### Description
-Green Apple, Honey, Almond
+{% include coffee-list.html %}

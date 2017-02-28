@@ -22,4 +22,12 @@
 {{coffee.altitude}}
 #### Description
 {{coffee.description}}
+
+{% if forloop.last == false %}
+<!--temp breaker until we update site design-->
+<br />
+<hr />
+<br />
+{% endif %}
+
 {% endfor %}

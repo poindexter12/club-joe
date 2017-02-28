@@ -10,6 +10,7 @@ coffee-roasts:
     purchase-date: "02/24/2017"
     roast-date: "02/23/17"
     continent: "Central America"
+    country: "Guatemala"
     region: "Jutiapa"
     varietal: "Pacas"
     farm: "Calderas"

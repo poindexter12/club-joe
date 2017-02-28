@@ -3,27 +3,20 @@ layout: post
 title:  "Week 02/20/2017 Batch"
 date:   2017-02-20 10:29:00 0800
 categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Costa Rica Finca El Mango"
+    purchase-date: "02/17/2017"
+    roast-date: "02/10/2017"
+    continent: "Central America"
+    country: "Costa Rica"
+    region: "??"
+    varietal: "Caturra, Catuai"
+    farm: "??"
+    process: "Black Honey"
+    altitude: "??"
+    description: "Honeysuckle, Milk Chocolate, Dried Fruit"
 ---
-# [Global Coffee Trading](http://www.globalcoffeetrading.com)
 
-### Costa Rica Finca El Mango
-#### Purchase Date
-02/17/2017
-#### Roast Date
-02/10/2017		
-#### Continent
-Central America
-#### Country
-Costa Rica
-#### Region
-??
-#### Varietal
-Caturra, Catuai
-#### Farm
-??
-#### Process
-Black Honey
-#### Altitude
-??
-#### Description
-Honeysuckle, Milk Chocolate, Dried Fruit
+{% include coffee-list.html %}

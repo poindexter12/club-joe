@@ -3,27 +3,20 @@ layout: post
 title:  "Week 02/13/2017 Batch"
 date:   2017-02-13 10:29:00 0800
 categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Brazil Carmo de Minaso"
+    purchase-date: "02/10/2017"
+    roast-date: "02/10/2017"
+    continent: "South America"
+    country: "Brazil"
+    region: "??"
+    varietal: "Typica"
+    farm: "??"
+    process: "Pulped Natural"
+    altitude: "??"
+    description: "Caramel, Nougat, Pecan"
 ---
-# [Global Coffee Trading](http://www.globalcoffeetrading.com)
 
-### Brazil Carmo de Minas
-#### Purchase Date
-02/10/2017
-#### Roast Date
-02/10/2017		
-#### Continent
-South America
-#### Country
-Brazil
-#### Region
-??
-#### Varietal
-Typica
-#### Farm
-??
-#### Process
-Pulped Natural
-#### Altitude
-??
-#### Description
-Caramel, Nougat, Pecan
+{% include coffee-list.html %}
