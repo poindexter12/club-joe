@@ -1,0 +1,25 @@
+{% for coffee in page.coffee-roasts %}
+# [{{coffee.roaster}}]({{coffee.roaster-url}})
+
+### {{coffee.name}}
+#### Purchase Date
+{{ page.purchase-date }}
+#### Roast Date
+{{coffee.roast-date}}		
+#### Continent
+{{coffee.continent}}
+#### Country
+{{coffee.country}}
+#### Region
+{{coffee.region}}
+#### Varietal
+{{coffee.varietal}}
+#### Farm
+{{coffee.farm}}
+#### Process
+{{coffee.process}}
+#### Altitude
+{{coffee.altitude}}
+#### Description
+{{coffee.description}}
+{% endfor %}

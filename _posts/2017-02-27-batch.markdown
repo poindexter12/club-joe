@@ -3,27 +3,20 @@ layout: post
 title:  "Week 02/27/2017 Batch"
 date:   2017-02-27 12:00:00 -0800
 categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Guatemala Uutiapa"
+    purchase-date: "02/24/2017"
+    roast-date: "02/23/17"
+    continent: "Central America"
+    region: "Jutiapa"
+    varietal: "Pacas"
+    farm: "Calderas"
+    process: "Honey"
+    altitude: "1370 Meters"
+    description: "Plum, Oak, Chocolate Liqueur"
 ---
-# [Global Coffee Trading](http://www.globalcoffeetrading.com)
 
-### Guatemala Uutiapa
-#### Purchase Date
-02/24/2017
-#### Roast Date
-02/23/17		
-#### Continent
-Central America
-#### Country
-Guatemala
-#### Region
-Jutiapa
-#### Varietal
-Pacas
-#### Farm
-Calderas
-#### Process
-Honey
-#### Altitude
-1370 Meters
-#### Description
-Plum, Oak, Chocolate Liqueur
+# Simple include to test concept
+{% include blog_post.html %}
