@@ -18,5 +18,4 @@ coffee-roasts:
     description: "Plum, Oak, Chocolate Liqueur"
 ---
 
-# Simple include to test concept
-{% include blog_post.html %}
+{% include coffee-list.html %}
