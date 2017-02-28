@@ -1,29 +1,19 @@
 ---
 layout: post
-title:  "Week 02/27/2017 Batch"
-date:   2017-02-27 12:00:00 -0800
+title:  "Week 01/01/2017 Batch"
+date:   2017-01-01 12:00:00 -0800
 categories: coffee
+coffee-roasts:
+  - roaster: ""
+    roaster-url: ""
+    name: ""
+    purchase-date: "01/01/2017"
+    roast-date: "01/01/2017"
+    continent: ""
+    country: ""
+    region: ""
+    varietal: ""
+    process: ""
+    altitude: ""
+    description: ""
 ---
-# [Global Coffee Trading](http://www.globalcoffeetrading.com)
-
-### coffeeName
-#### Purchase Date
-purchaseDate
-#### Roast Date
-roastDate		
-#### Continent
-continent
-#### Country
-country
-#### Region
-region
-#### Varietal
-varietal
-####Farm
-farm
-#### Process
-process
-#### Altitude
-altitude
-#### Description
-description
