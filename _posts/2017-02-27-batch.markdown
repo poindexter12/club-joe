@@ -8,7 +8,7 @@ coffee-roasts:
     roaster-url: "http://www.globalcoffeetrading.com"
     name: "Guatemala Uutiapa"
     purchase-date: "02/24/2017"
-    roast-date: "02/23/17"
+    roast-date: "02/23/2017"
     continent: "Central America"
     country: "Guatemala"
     region: "Jutiapa"
