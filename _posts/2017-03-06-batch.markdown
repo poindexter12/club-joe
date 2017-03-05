@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Week 02/06/2017 Batch"
-date:   2017-02-06 10:29:00 0800
+title:  "Week 03/06/2017 Batch"
+date:   2017-03-06 12:00:00 -0800
 categories: coffee
 coffee-roasts:
   - roaster: "Global Coffee Trading"
     roaster-url: "http://www.globalcoffeetrading.com"
-    name: "Ethiopia Yirgachiffe"
-    purchase-date: "02/02/2017"
-    roast-date: "02/01/2017"
+    name: "Ethiopia Guji"
+    purchase-date: "03/02/2017"
+    roast-date: "02/24/2017"
     continent: "Africa"
     country: "Ethiopia"
     region: "??"
     varietal: "Heirloom"
     farm: "??"
-    process: "Washed"
+    process: "Natural"
     altitude: "??"
-    description: "Maple, Honey, Stone Fruit"
+    description: "Graham, Baked Fruits, Melon"
 ---
 
 {% include coffee-list.html %}
