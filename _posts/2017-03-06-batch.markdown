@@ -11,11 +11,8 @@ coffee-roasts:
     roast-date: "02/24/2017"
     continent: "Africa"
     country: "Ethiopia"
-    region: "??"
     varietal: "Heirloom"
-    farm: "??"
     process: "Natural"
-    altitude: "??"
     description: "Graham, Baked Fruits, Melon"
 ---
 

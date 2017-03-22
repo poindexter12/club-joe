@@ -11,11 +11,8 @@ coffee-roasts:
     roast-date: "01/18/2017	"
     continent: "Africa"
     country: "Kenya"
-    region: "??"
     varietal: "SL-34, SL-28"
-    farm: "??"
     process: "Washed"
-    altitude: "??"
     description: "Black Currant, Clementine, Molasses"
 ---
 

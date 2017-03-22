@@ -11,11 +11,8 @@ coffee-roasts:
     roast-date: "01/20/2017"
     continent: "Central America"
     country: "Mexico"
-    region: "??"
     varietal: "Bourbon, Cattura Typica"
-    farm: "??"
     process: "Washed"
-    altitude: "??"
     description: "Green Apple, Honey, Almond"
 ---
 
