@@ -15,3 +15,5 @@ coffee-roasts:
     process: "Washed"
     description: "Grapefruit, Apricot, Mulled Spice"
 ---
+
+{% include coffee-list.html %}
