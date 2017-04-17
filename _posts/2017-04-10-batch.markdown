@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 03/27/2017 Batch"
+date:   2017-03-27 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Ethiopia Yirgacheffe"
+    purchase-date: "03/27/2017"
+    roast-date: "03/27/2017"
+    continent: "Africa"
+    country: "Ethiopia"
+    varietal: "Heirloom"
+    process: "Washed"
+    description: "Rose, Peach, Meyer Lemon"
+---
+
+{% include coffee-list.html %}
