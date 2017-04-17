@@ -11,9 +11,9 @@ coffee-roasts:
     roast-date: "01/01/2017"
     continent: ""
     country: ""
-    region: ""
     varietal: ""
     process: ""
-    altitude: ""
     description: ""
 ---
+
+{% include coffee-list.html %}
