@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 04/17/2017 Batch"
+date:   2017-04-17 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Guatemala San Miguel"
+    purchase-date: "04/17/2017"
+    roast-date: "04/14/2017"
+    continent: "Central America"
+    country: "Guatemala"
+    varietal: "Typica, Bourbon"
+    process: "Washed"
+    description: "Red Grape, Orange Peel, Hibiscus"
+---
+
+{% include coffee-list.html %}
