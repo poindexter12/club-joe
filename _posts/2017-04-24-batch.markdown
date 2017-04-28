@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 04/24/2017 Batch"
+date:   2017-04-24 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Rwanda Nyamagabe"
+    purchase-date: "04/24/2017"
+    roast-date: "04/21/2017"
+    continent: "Africa"
+    country: "Rwanda"
+    varietal: "Bourbon"
+    process: "Washed"
+    description: "Raspberry, Brown Sugar, Maple"
+---
+
+{% include coffee-list.html %}
