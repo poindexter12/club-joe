@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 05/01/2017 Batch"
+date:   2017-05-01 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "El Salvador Microlot"
+    purchase-date: "05/01/2017"
+    roast-date: "04/28/2017"
+    continent: "Central America"
+    country: "El Salvador"
+    varietal: "Red Bourbon"
+    process: "Red Honey"
+    description: "Coconut, Caramel, Honeydew"
+---
+
+{% include coffee-list.html %}
