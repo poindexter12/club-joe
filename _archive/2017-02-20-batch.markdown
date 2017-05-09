@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Costa Rica"
     varietal: "Caturra, Catuai"
     process: "Black Honey"
-    description: "Honeysuckle, Milk Chocolate, Dried Fruit"
+    flavor: "Honeysuckle, Milk Chocolate, Dried Fruit"
 ---
 
 {% include coffee-list.html %}

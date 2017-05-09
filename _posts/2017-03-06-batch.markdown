@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Ethiopia"
     varietal: "Heirloom"
     process: "Natural"
-    description: "Graham, Baked Fruits, Melon"
+    flavor: "Graham, Baked Fruits, Melon"
 ---
 
 {% include coffee-list.html %}

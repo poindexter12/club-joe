@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Mexico"
     varietal: "Bourbon, Cattura Typica"
     process: "Washed"
-    description: "Green Apple, Honey, Almond"
+    flavor: "Green Apple, Honey, Almond"
 ---
 
 {% include coffee-list.html %}

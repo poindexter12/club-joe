@@ -16,7 +16,7 @@ coffee-roasts:
     farm: "Various"
     process: "Washed & Natural"
     altitude: "1400 - 2100 meters"
-    description: "Finally. A coffee that is blended to increase the layers of flavor and experience from coffee, and not for the purpose of trying to cut costs and use up old coffee. This coffee can do it all, french press, cold brew, espresso, pourovers, aero-press, etc... It has a nice bright complexity with some nice floral accents, followed by a rounded body with chocolate notes."
+    flavor: "Finally. A coffee that is blended to increase the layers of flavor and experience from coffee, and not for the purpose of trying to cut costs and use up old coffee. This coffee can do it all, french press, cold brew, espresso, pourovers, aero-press, etc... It has a nice bright complexity with some nice floral accents, followed by a rounded body with chocolate notes."
   - roaster: "SteadyState"
     roaster-url: "https://steady-state.myshopify.com"
     name: "Tawo Mok"
@@ -29,7 +29,7 @@ coffee-roasts:
     farm: "Dumerso Village"
     process: "Natural"
     altitude: "1900 - 2000 meters"
-    description: "This is a unique standout coffee from the Ehiopia, Yirgacheffe region. It is one of the cleanset cups we have experienced that falls in this price range (generally a clean cup like this is much more expensive). The tastte profile is red tea, mixed berries, cardamom, with a super smooth finish. This one to make sure and not miss. It does extremely well as a pourover and aeropress, and even make an outstanding espresso."
+    flavor: "This is a unique standout coffee from the Ehiopia, Yirgacheffe region. It is one of the cleanset cups we have experienced that falls in this price range (generally a clean cup like this is much more expensive). The tastte profile is red tea, mixed berries, cardamom, with a super smooth finish. This one to make sure and not miss. It does extremely well as a pourover and aeropress, and even make an outstanding espresso."
 ---
 
 {% include coffee-list.html %}

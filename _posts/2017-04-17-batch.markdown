@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Guatemala"
     varietal: "Typica, Bourbon"
     process: "Washed"
-    description: "Red Grape, Orange Peel, Hibiscus"
+    flavor: "Red Grape, Orange Peel, Hibiscus"
 ---
 
 {% include coffee-list.html %}

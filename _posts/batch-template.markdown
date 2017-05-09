@@ -13,7 +13,7 @@ coffee-roasts:
     country: ""
     varietal: ""
     process: ""
-    description: ""
+    flavor: ""
 ---
 
 {% include coffee-list.html %}

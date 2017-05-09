@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Kenya"
     varietal: "SL-28, SL-34"
     process: "Washed"
-    description: "Grapefruit, Apricot, Mulled Spice"
+    flavor: "Grapefruit, Apricot, Mulled Spice"
 ---
 
 {% include coffee-list.html %}

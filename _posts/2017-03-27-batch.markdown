@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Ethiopia"
     varietal: "Heirloom"
     process: "Washed"
-    description: "Rose, Peach, Meyer Lemon"
+    flavor: "Rose, Peach, Meyer Lemon"
 ---
 
 {% include coffee-list.html %}

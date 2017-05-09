@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Ethiopia"
     varietal: "Heirloom"
     process: "Washed"
-    description: "Maple, Honey, Stone Fruit"
+    flavor: "Maple, Honey, Stone Fruit"
 ---
 
 {% include coffee-list.html %}

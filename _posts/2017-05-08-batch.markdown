@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Ethiopia"
     varietal: "Heirloom"
     process: "Natural"
-    description: "Key Lime, Strawberry, Jasmine"
+    flavor: "Key Lime, Strawberry, Jasmine"
 ---
 
 {% include coffee-list.html %}

@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Rwanda"
     varietal: "Bourbon"
     process: "Washed"
-    description: "Raspberry, Brown Sugar, Maple"
+    flavor: "Raspberry, Brown Sugar, Maple"
 ---
 
 {% include coffee-list.html %}

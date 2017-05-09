@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Kenya"
     varietal: "SL-34, SL-28"
     process: "Washed"
-    description: "Black Currant, Clementine, Molasses"
+    flavor: "Black Currant, Clementine, Molasses"
 ---
 
 {% include coffee-list.html %}

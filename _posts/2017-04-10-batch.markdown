@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Mexico"
     varietal: "Typica, Bourbon"
     process: "Washed"
-    description: "Hazelnut, Nutmeg, Caramel"
+    flavor: "Hazelnut, Nutmeg, Caramel"
 ---
 
 {% include coffee-list.html %}

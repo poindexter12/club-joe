@@ -13,7 +13,7 @@ coffee-roasts:
     country: "Guatemala"
     varietal: "Caturra"
     process: "Washed"
-    description: "Vanilla, Sugar Cane,  Lime"
+    flavor: "Vanilla, Sugar Cane,  Lime"
 ---
 
 {% include coffee-list.html %}

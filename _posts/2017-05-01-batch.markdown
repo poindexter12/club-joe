@@ -13,7 +13,7 @@ coffee-roasts:
     country: "El Salvador"
     varietal: "Red Bourbon"
     process: "Red Honey"
-    description: "Coconut, Caramel, Honeydew"
+    flavor: "Coconut, Caramel, Honeydew"
 ---
 
 {% include coffee-list.html %}

@@ -16,7 +16,7 @@ coffee-roasts:
     farm: "Calderas"
     process: "Honey"
     altitude: "1370 Meters"
-    description: "Plum, Oak, Chocolate Liqueur"
+    flavor: "Plum, Oak, Chocolate Liqueur"
 ---
 
 {% include coffee-list.html %}

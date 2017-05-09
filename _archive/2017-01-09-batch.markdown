@@ -16,7 +16,7 @@ coffee-roasts:
     farm: "Microlot"
     process: "Washed"
     altitude: "1200 - 1800"
-    description: "Toffee, lemon, cocoa and sweet. 2016 Harvest"
+    flavor: "Toffee, lemon, cocoa and sweet. 2016 Harvest"
   - roaster: "IronSmith"
     roaster-url: "http://www.ironsmithcoffee.com"
     name: "Chalatenango"
@@ -29,7 +29,7 @@ coffee-roasts:
     farm: "Finca El Apostol"
     process: "Washed"
     altitude: "1300 - 1600"
-    description: "Tart cherry, lemon, strawberry and winey acidity. 2016 Harvest."
+    flavor: "Tart cherry, lemon, strawberry and winey acidity. 2016 Harvest."
 ---
 
 {% include coffee-list.html %}
