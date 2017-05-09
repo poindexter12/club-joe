@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 05/08/2017 Batch"
+date:   2017-05-08 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Ethiopia Yirgacheffe"
+    purchase-date: "05/08/2017"
+    roast-date: "05/08/2017"
+    continent: "Africa"
+    country: "Ethiopia"
+    varietal: "Heirloom"
+    process: "Natural"
+    description: "Key Lime, Strawberry, Jasmine"
+---
+
+{% include coffee-list.html %}
