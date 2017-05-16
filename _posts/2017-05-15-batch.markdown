@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 05/15/2017 Batch"
+date:   2017-05-15 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Guatemala Antigua Ciudad Vieja"
+    purchase-date: "05/15/2017"
+    roast-date: "05/12/2017"
+    continent: "Central America"
+    country: "Guatemala"
+    varietal: "Bourbon"
+    process: "Washed"
+    flavor: "Tangerine, Vanilla, Fudge"
+---
+
+{% include coffee-list.html %}
