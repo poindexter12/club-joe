@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 05/22/2017 Batch"
+date:   2017-05-22 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Guatemala Acatenango"
+    purchase-date: "05/22/2017"
+    roast-date: "05/19/2017"
+    continent: "Central America"
+    country: "Guatemala"
+    varietal: "Bourbon, Catuia"
+    process: "Washed"
+    flavor: "Walnut, Sweet Citrus, Cocoa"
+---
+
+{% include coffee-list.html %}
