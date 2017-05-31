@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 05/22/2017 Batch"
+date:   2017-05-22 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Guatemala El Sarral"
+    purchase-date: "05/30/2017"
+    roast-date: "05/26/2017"
+    continent: "Central America"
+    country: "Guatemala"
+    varietal: "Catuia"
+    process: "Washed"
+    flavor: "Dark Chocolate, Orange Peel, Tangerine"
+---
+
+{% include coffee-list.html %}
