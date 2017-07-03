@@ -6,7 +6,7 @@ layout: default
 ## For $25/month enjoy 4OZ a week of locally roasted fresh coffee!
 
 <form action="https://t2rufgqjtc.execute-api.us-west-2.amazonaws.com/prod/stripe_test_handler" method="POST">
-  <script src="https://checkout.stripe.com/checkout.js" class="stripe-button" data-key="pk_mlFvmHLKdOsnJiZEhqCX2rskX3vJT" data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+  <script src="https://checkout.stripe.com/checkout.js" class="stripe-button" data-key="pk_wjfs21Z5RQ0dmzYNhZJ36BVESbXC4" data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
   data-name="Club Joe"
   data-description="Subscription for 4 ounces per week"
   data-amount="2500"
