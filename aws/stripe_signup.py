@@ -43,7 +43,7 @@ def handler(event, context):
         LOGGER.info('created customer: %s', customer)
 
         # create the subscription
-        plan = "base-plan"
+        plan = "4-ounces"
         LOGGER.info('plan: %s', plan)
         subscription = stripe.Subscription.create(
             customer=customer.id,
