@@ -52,13 +52,32 @@ def handler(event, context):
 
         LOGGER.info('created subscription: %s', subscription)
 
-        return {"location" : "https://clubjoe.co/signup_success"}
+        response = {
+            "statusCode":"302",
+            "headers":
+            {
+                "Location":"https://clubjoe.co/signup_success",
+                "Content-Type":"application/json"
+            },
+            "body":"success!"
+        }
 
     except Exception as ex:
         LOGGER.info('error: %s', ex)
         LOGGER.error('something went wrong')
 
-    return {"location" : "https://clubjoe.co/signup_error"}
+        response = {
+            "statusCode":"302",
+            "headers":
+            {
+                "Location":"https://clubjoe.co/signup_error",
+                "Content-Type":"application/json"
+            },
+            "body":ex
+        }
+
+
+    return response
 
 if __name__ == "__main__":
     APP.run()
