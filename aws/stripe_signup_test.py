@@ -20,16 +20,19 @@ def handler(event, context):
     LOGGER.info('got event: %s', event)
     LOGGER.info('got context: %s', context)
     try:
-        customer = stripe.Customer.create(
-            email=request.form.get('stripeEmail'),
-            source=request.form.get('stripeToken')
-        )
+        email = request.form.get('stripeEmail')
+        source = request.form.get('stripeToken')
+        LOGGER.info('email: %s', email)
+        LOGGER.info('source: %s', source)
+        customer = stripe.Customer.create(email=email, source=source)
 
         LOGGER.info('created customer: %s', customer)
 
+        plan="base-plan"
+        LOGGER.info('plan: %s', plan)
         subscription = stripe.Subscription.create(
             customer=customer.id,
-            plan="base-plan"
+            plan=plan
         )
 
         LOGGER.info('created subscription: %s', subscription)
