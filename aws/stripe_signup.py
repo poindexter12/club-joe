@@ -2,7 +2,7 @@
 import logging
 import urllib2
 import os
-from flask import Flask, redirect
+from flask import Flask
 import stripe
 
 LOGGER = logging.getLogger()
@@ -52,12 +52,13 @@ def handler(event, context):
 
         LOGGER.info('created subscription: %s', subscription)
 
-        return redirect("https://clubjoe.co")
+        return {"location" : "https://clubjoe.co/signup_success"}
 
-    except Exception as e:
+    except Exception as ex:
+        LOGGER.info('error: %s', ex)
         LOGGER.error('something went wrong')
-        # Don't forget to log your errors before doing this!
-        return redirect("https://www.google.com")
+
+    return {"location" : "https://clubjoe.co/signup_error"}
 
 if __name__ == "__main__":
     APP.run()
