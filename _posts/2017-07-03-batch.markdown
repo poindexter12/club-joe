@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 07/03/2017 Batch"
+date:   2017-07-03 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Burundi"
+    purchase-date: "07/05/2017"
+    roast-date: "07/03/2017"
+    continent: "Africa"
+    country: "Burundi"
+    varietal: "Bourbon"
+    process: "Washed"
+    flavor: "Mandarin Orange, Cherry, Semi-Sweet Chocolate"
+---
+
+{% include coffee-list.html %}
