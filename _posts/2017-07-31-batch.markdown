@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 07/31/2017 Batch"
+date:   2017-07-31 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Guatemala Gold"
+    purchase-date: "08/01/2017"
+    roast-date: "08/01/2017"
+    continent: "Central America"
+    country: "Guatemala"
+    varietal: "Catuai, Caturra, Bourbon"
+    process: "Washed"
+    flavor: "Cherry, Spice, Raspberry Preserves"
+---
+
+{% include coffee-list.html %}
