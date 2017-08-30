@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+# Join Club Joe
 
-# Join Club Joe!
 ## For $25/month enjoy 4OZ a week of locally roasted fresh coffee!
 
 <form action="https://t2rufgqjtc.execute-api.us-west-2.amazonaws.com/prod/stripe_handler" method="POST">
