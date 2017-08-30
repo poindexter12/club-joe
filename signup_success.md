@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+# Success
 
-# Success!
 ## You can manage your subscription at [Stripe](https://stripe.com) if you want to cancel
 
-# [Back to coffee](/index)
+## [Back to coffee](/index)

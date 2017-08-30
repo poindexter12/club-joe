@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+# Whoops
 
-# Whoops!
-## Something went wrong, we'll try to figure out what happened soon, sorry.
+## Something went wrong, we'll try to figure out what happened soon, sorry
 
-# [Back to coffee](/index)
+## [Back to coffee](/index)
