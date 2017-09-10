@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 09/06/2017 Batch"
+date:   2017-09-06 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "?"
+    purchase-date: "09/06/2017"
+    roast-date: "09/05/2017"
+    continent: "South America"
+    country: "Colombia"
+    varietal: "Caturra, Catuai"
+    process: "Washed"
+    flavor: "Milk Chocolate, Lime, Toffee"
+---
+
+{% include coffee-list.html %}
