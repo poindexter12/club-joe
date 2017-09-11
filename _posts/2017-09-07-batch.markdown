@@ -10,7 +10,7 @@ coffee-roasts:
     purchase-date: "09/10/2017"
     roast-date: "09/07/2017"
     continent: "Central America"
-    country: "Colombia"
+    country: "Mexico"
     varietal: "Typica, Bourbon"
     process: "Washed"
     flavor: "Honey, Cashew, Papaya"
