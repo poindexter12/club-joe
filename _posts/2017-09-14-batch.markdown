@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 09/14/2017 Batch"
+date:   2017-09-14 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Burundi"
+    purchase-date: "09/14/2017"
+    roast-date: "09/14/2017"
+    continent: "Africa"
+    country: "Burundi"
+    varietal: "Bourbon"
+    process: "Washed"
+    flavor: "Cherry, Clove, Sugar Cane"
+---
+
+{% include coffee-list.html %}
