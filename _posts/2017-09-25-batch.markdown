@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 09/25/2017 Batch"
+date:   2017-09-25 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Guatemala La Hermosa"
+    purchase-date: "09/25/2017"
+    roast-date: "09/25/2017"
+    continent: "Central America"
+    country: "Guatemala"
+    varietal: "Bourbon"
+    process: "Washed"
+    flavor: "Sweet Citrus, Bakers Chocolate, Brown Sugar"
+---
+
+{% include coffee-list.html %}
