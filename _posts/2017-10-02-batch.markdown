@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 10/02/2017 Batch"
+date:   2017-10-02 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Finca La Dalia"
+    purchase-date: "10/02/2017"
+    roast-date: "10/02/2017"
+    continent: "Central America"
+    country: "El Salvador"
+    varietal: "N/A"
+    process: "N/A"
+    flavor: "Chocolate, Spice, Butter"
+---
+
+{% include coffee-list.html %}
