@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Join Club Joe
+type: menu
 ---
 # Join Club Joe
 
