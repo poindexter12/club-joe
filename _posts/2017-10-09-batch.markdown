@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 10/09/2017 Batch"
+date:   2017-10-09 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Honduras Los Amigos"
+    purchase-date: "10/09/2017"
+    roast-date: "10/09/2017"
+    continent: "Central America"
+    country: "Honduras"
+    varietal: "Catuai"
+    process: "Washed"
+    flavor: "Dried Strawberry, Honeydew, Milk Chocolate"
+---
+
+{% include coffee-list.html %}
