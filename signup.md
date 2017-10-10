@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Join Club Joe
 ---
 # Join Club Joe
 
