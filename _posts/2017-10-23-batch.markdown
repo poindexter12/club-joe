@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 10/23/2017 Batch"
+date:   2017-10-23 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Mexico Yolo"
+    purchase-date: "10/23/2017"
+    roast-date: "10/23/2017"
+    continent: "Central America"
+    country: "Mexico"
+    varietal: "Bourbon, Caturra"
+    process: "Washed"
+    flavor: "Pomelo, Raspberry, Cinnamon"
+---
+
+{% include coffee-list.html %}
