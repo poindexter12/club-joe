@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 11/13/2017 Batch"
+date:   2017-11-13 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "El Corazon"
+    purchase-date: "11/13/2017"
+    roast-date: "11/13/2017"
+    continent: "Central America"
+    country: "Mexico"
+    varietal: "Typica"
+    process: "Washed"
+    flavor: "Mandarin Orange, Tangerine, Milk Chocolate"
+---
+
+{% include coffee-list.html %}
