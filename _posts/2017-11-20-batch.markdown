@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 11/20/2017 Batch"
+date:   2017-11-20 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Honduras Los Amigos"
+    purchase-date: "11/20/2017"
+    roast-date: "11/20/2017"
+    continent: "Central America"
+    country: "Honduras"
+    varietal: "Catuai"
+    process: "Honey"
+    flavor: "Agave, Caramel, Toffee"
+---
+
+{% include coffee-list.html %}
