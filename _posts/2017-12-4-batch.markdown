@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 12/04/2017 Batch"
+date:   2017-12-04 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Finca La Montanita"
+    purchase-date: "12/04/2017"
+    roast-date: "12/04/2017"
+    continent: "Central America"
+    country: "Guatemala"
+    varietal: "Yellow Catuai"
+    process: "Orange Peel"
+    flavor: "Citrus, Sugar Cane, Tropical Fruit"
+---
+
+{% include coffee-list.html %}
