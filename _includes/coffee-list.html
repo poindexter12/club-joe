@@ -1,26 +1,26 @@
 {% for coffee in page.coffee-roasts %}
 # [{{coffee.roaster}}]({{coffee.roaster-url}})
 
-### {{coffee.name}}
-#### Purchase Date
+## {{coffee.name}}
+### Purchase Date
 {{coffee.purchase-date}}
-#### Roast Date
+### Roast Date
 {{coffee.roast-date}}
-#### Continent
+### Continent
 {{coffee.continent}}
-#### Country
+### Country
 {{coffee.country}}
-#### Varietal
+### Varietal
 {{coffee.varietal}}
-#### Process
+### Process
 {{coffee.process}}
-#### Flavor Profile
+### Flavor Profile
 {{coffee.flavor}}
 
 {% if coffee.extras != nil %}
 ## Sometimes we get extra info about our coffees we can share:
 {% for extra in coffee.extras %}
-#### {{extra[1].title}}
+### {{extra[1].title}}
 {{extra[1].value}}
 {% endfor %}
 {% endif %}
