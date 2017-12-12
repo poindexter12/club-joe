@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Week 12/11/2017 Batch"
+date:   2017-12-11 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Santa Teresa Nueva Segovia"
+    purchase-date: "12/11/2017"
+    roast-date: "12/11/2017"
+    continent: "Central America"
+    country: "Nicaragua"
+    varietal: "Catuai & Catimor"
+    process: "Washed"
+    flavor: "Sweet Chocolate, Caramel, Honey, Balanced, Clean"
+    extras:
+      farm: 
+        title: "Farm"
+        value: "Finca Santa Teresa De Mogoton"
+      elevation: 
+        title: "Elevation"
+        value: "1500 meters above sea level"
+      soil-type: 
+        title: "Soil Type"
+        value:  "Sandy Loam"
+      drying:  
+        title: "Drying"
+        value: "Dried, Raised Bed"
+      grade:  
+        title: "Grade"
+        value: "AA/Grain Pro"
+      availability:
+        title: "Availability"
+        value: "30 Bags"
+      producer: 
+        title: "Producer"
+        value: "Silvio Sanchez"
+---
+
+{% include coffee-list.html %}
