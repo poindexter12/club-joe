@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 12/18/2017 Batch"
+date:   2017-12-18 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Brazil Cerrado"
+    purchase-date: "12/18/2017"
+    roast-date: "12/18/2017"
+    continent: "South America"
+    country: "Brazil"
+    varietal: "Bourbon"
+    process: "Pulped Natural"
+    flavor: "Pecan, Nougat, Milk Chocolate"
+---
+
+{% include coffee-list.html %}
