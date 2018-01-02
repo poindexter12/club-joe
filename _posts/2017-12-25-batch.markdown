@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 12/25/2017 Batch"
+date:   2017-12-25 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Mexico El Nopal"
+    purchase-date: "12/27/2017"
+    roast-date: "12/26/2017"
+    continent: "Central America"
+    country: "Mexico"
+    varietal: "Typica"
+    process: "Washed"
+    flavor: "Sugar Cane, Star Anise, Chocolate"
+---
+
+{% include coffee-list.html %}
