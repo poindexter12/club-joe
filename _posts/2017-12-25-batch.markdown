@@ -6,7 +6,7 @@ categories: coffee
 coffee-roasts:
   - roaster: "Global Coffee Trading"
     roaster-url: "http://www.globalcoffeetrading.com"
-    name: "Mexico El Nopal"
+    name: "El Nopal"
     purchase-date: "12/27/2017"
     roast-date: "12/26/2017"
     continent: "Central America"
