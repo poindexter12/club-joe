@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 02/12/2018 Batch"
+date:   2018-02-12 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Buena Vista"
+    purchase-date: "02/12/2018"
+    roast-date: "02/12/2018"
+    continent: "Central America"
+    country: "Nicaragua"
+    varietal: "Maragogipe"
+    process: "Washed"
+    flavor: "Guava, Sweet Lime, Honey"
+---
+
+{% include coffee-list.html %}
