@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 02/26/2018 Batch"
+date:   2018-02-26 12:00:00 -0800
+categories: coffee
+coffee-roasts:
+  - roaster: "Global Coffee Trading"
+    roaster-url: "http://www.globalcoffeetrading.com"
+    name: "Malani"
+    purchase-date: "02/26/2018"
+    roast-date: "02/26/2018"
+    continent: "N/A"
+    country: "N/A"
+    varietal: "SL-34"
+    process: "Washed"
+    flavor: "Chocolate, Cinnamon, Tangerine Zest"
+---
+
+{% include coffee-list.html %}
