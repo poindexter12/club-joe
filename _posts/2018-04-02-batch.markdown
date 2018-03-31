@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 04/02/2018 Batch"
+date:   2018-04-02
+categories: coffee
+coffee-roasts:
+  - roaster: "SVCR Coffee"
+    roaster-url: "https://svcrcoffee.com"
+    name: "Ethiopia Guji"
+    purchase-date: "04/02/2018"
+    roast-date: "04/02/2018"
+    continent: "Africa"
+    country: "Ethiopia"
+    varietal: "N/A"
+    process: "N/A"
+    flavor: "Brown Sugar, Apricot, Dried Strawberry"
+---
+
+{% include coffee-list.html %}

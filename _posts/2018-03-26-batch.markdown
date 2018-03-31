@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Week 03/19/2018 Batch"
-date:   2018-03-19 12:00:00 -0800
+title:  "Week 03/26/2018 Batch"
+date:   2018-03-26
 categories: coffee
 coffee-roasts:
   - roaster: "SVCR Coffee"
     roaster-url: "https://svcrcoffee.com"
     name: "Mexico Oaxaca"
-    purchase-date: "03/19/2018"
-    roast-date: "03/19/2018"
+    purchase-date: "03/26/2018"
+    roast-date: "03/26/2018"
     continent: "North America"
     country: "Mexico"
     varietal: "N/A"
