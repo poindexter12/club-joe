@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 04/16/2018 Batch"
+date:   2018-04-16
+categories: coffee
+coffee-roasts:
+  - roaster: "SVCR Coffee"
+    roaster-url: "https://svcrcoffee.com"
+    name: "Ethiopia Kochere"
+    purchase-date: "04/16/2018"
+    roast-date: "04/16/2018"
+    continent: "Africa"
+    country: "Ethiopia"
+    varietal: "N/A"
+    process: "N/A"
+    flavor: "Apricot, Caramel, Sugar Cane"
+---
+
+{% include coffee-list.html %}
