@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 04/23/2018 Batch"
+date:   2018-04-23
+categories: coffee
+coffee-roasts:
+  - roaster: "SVCR Coffee"
+    roaster-url: "https://svcrcoffee.com"
+    name: "Mexico Oaxaca"
+    purchase-date: "04/23/2018"
+    roast-date: "04/23/2018"
+    continent: "North America"
+    country: "Mexico"
+    varietal: "N/A"
+    process: "N/A"
+    flavor: "Praline, Agave, Bakers Chocolate"
+---
+
+{% include coffee-list.html %}
