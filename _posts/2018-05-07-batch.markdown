@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 05/07/2018 Batch"
+date:   2018-05-07
+categories: coffee
+coffee-roasts:
+  - roaster: "SVCR Coffee"
+    roaster-url: "https://svcrcoffee.com"
+    name: "Nicaragua Buena Vista"
+    purchase-date: "05/07/2018"
+    roast-date: "05/07/2018"
+    continent: "Central America"
+    country: "Nicaragua"
+    varietal: "N/A"
+    process: "N/A"
+    flavor: "Agave, Almond, Cocoa"
+---
+
+{% include coffee-list.html %}

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 04/30/2018 Batch"
+date:   2018-04-30
+categories: coffee
+coffee-roasts:
+  - roaster: "SVCR Coffee"
+    roaster-url: "https://svcrcoffee.com"
+    name: "Malawi Peaberry"
+    purchase-date: "04/30/2018"
+    roast-date: "04/30/2018"
+    continent: "Africa"
+    country: "Malawi"
+    varietal: "N/A"
+    process: "N/A"
+    flavor: "Cinnamon, Coco, Raspberry"
+---
+
+{% include coffee-list.html %}
