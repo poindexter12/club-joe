@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Week 05/28/2018 Batch"
-date:   2018-05-28
+title:  "Week 06/04/2018 Batch"
+date:   2018-06-04
 categories: coffee
 coffee-roasts:
   - roaster: "SVCR Coffee"
     roaster-url: "https://svcrcoffee.com"
-    name: "Ethiopia Kochere"
-    purchase-date: "05/28/2018"
-    roast-date: "05/28/2018"
-    continent: "Africa"
-    country: "Ethiopia"
+    name: "Panama Geisha"
+    purchase-date: "06/04/2018"
+    roast-date: "06/01/2018"
+    continent: "Central America"
+    country: "Panama"
     varietal: "N/A"
     process: "N/A"
-    flavor: "Apricot, Caramel, Sugar Cane"
+    flavor: "Caramel, Dried Strawberry, Kiwi"
 ---
 
 {% include coffee-list.html %}
