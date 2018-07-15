@@ -8,7 +8,7 @@ coffee-roasts:
     roaster-url: "https://svcrcoffee.com"
     name: "Malawi AAA"
     purchase-date: "06/25/2018"
-    roast-date: "05/25/2018"
+    roast-date: "06/25/2018"
     continent: "Africa"
     country: "Malawi"
     varietal: "N/A"
