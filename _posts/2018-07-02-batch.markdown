@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Week 06/25/2018 Batch"
-date:   2018-06-25
+title:  "Week 07/02/2018 Batch"
+date:   2018-07-02
 categories: coffee
 coffee-roasts:
   - roaster: "SVCR Coffee"
     roaster-url: "https://svcrcoffee.com"
-    name: "Malawi AAA"
-    purchase-date: "06/25/2018"
-    roast-date: "05/25/2018"
+    name: "Ethiopia Kochere"
+    purchase-date: "07/02/2018"
+    roast-date: "07/02/2018"
     continent: "Africa"
-    country: "Malawi"
+    country: "Ethiopia"
     varietal: "N/A"
     process: "N/A"
-    flavor: "Maple, Berry, Cardemom"
+    flavor: "Apricot, Caramel, Sugar Cane"
 ---
 
 {% include coffee-list.html %}
