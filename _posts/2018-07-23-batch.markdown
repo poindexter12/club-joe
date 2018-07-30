@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 07/23/2018 Batch"
+date:   2018-07-23
+categories: coffee
+coffee-roasts:
+- roaster: "SVCR Coffee"
+  roaster-url: "https://svcrcoffee.com"
+  name: "Brazil Cerrado"
+  purchase-date: "07/23/2018"
+  roast-date: "07/21/2018"
+  continent: "South America"
+  country: "Brazil"
+  varietal: "N/A"
+  process: "N/A"
+  flavor: "Walnut, Dark Chocolate, Cherry"
+---
+
+{% include coffee-list.html %}
